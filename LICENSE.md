@@ -1,4 +1,4 @@
-# 
+# Official QueryMind setup. Download and install with lightweight and fast-setup — fast, secure, and easy to use.
 
 
 
